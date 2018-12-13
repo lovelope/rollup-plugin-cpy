@@ -1,4 +1,4 @@
-# rollup-plugin-cpy
+# rollup-plugin-cpy2
 
 *Very* basic rollup plugin to copy static assets over to you public directory. Files are copied using [cpy](https://github.com/sindresorhus/cpy) 
 
@@ -7,7 +7,7 @@
 This package can be installed using npm:
 
 ```
-npm install rollup-plugin-cpy
+npm install rollup-plugin-cpy2
 ```
 
 ## Usage
@@ -15,7 +15,7 @@ npm install rollup-plugin-cpy
 Add the following lines to your `rollup.config.js`:
 
 ```javascript
-import copy from 'rollup-plugin-cpy';
+import copy from 'rollup-plugin-cpy2';
 
 ...
 
