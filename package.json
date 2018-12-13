@@ -1,6 +1,6 @@
 {
   "name": "rollup-plugin-cpy2",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple rollup plugin to copy static assets over to you public directory",
   "main": "index.js",
   "repository": "https://github.com/lovelope/rollup-plugin-cpy.git",
