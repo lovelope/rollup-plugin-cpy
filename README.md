@@ -1,5 +1,7 @@
 # rollup-plugin-cpy2
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/lovelope/rollup-plugin-cpy.svg)](https://greenkeeper.io/)
+
 *Very* basic rollup plugin to copy static assets over to you public directory. Files are copied using [cpy](https://github.com/sindresorhus/cpy) 
 
 ## Installation
